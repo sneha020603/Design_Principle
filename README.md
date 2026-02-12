@@ -252,7 +252,7 @@ You will be able to confidently explain:
 
 ## Author
 
-Sneha Kumari  
+Sneha 
 B.Tech CSE (IoT & CS)  
 Java and Backend Engineering Enthusiast
 
