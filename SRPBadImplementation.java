@@ -63,7 +63,7 @@ class ShoppingCart{
 
 
 
-public class SRP {
+public class SRPBadImplementation {
     public static void main(String[] args) {
 
         Product p1 = new Product("Laptop", 55000);
